@@ -1,0 +1,1 @@
+The 2nd project for the Team Treehouse Full Stack Javascript course. This is the data pagination project, the HTML/CSS was written by the staff at Treehouse, I scripted the Javascript for this project.
